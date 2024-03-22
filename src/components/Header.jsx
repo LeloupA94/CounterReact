@@ -5,7 +5,7 @@ const Header = () => {
       <div className="logo">
         <img src={Logo} />
       </div>
-      <h1>React Counter</h1>
+      <h1>React CounterV2</h1>
     </header>
   );
 };
